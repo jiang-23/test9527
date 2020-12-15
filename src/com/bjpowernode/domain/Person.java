@@ -7,4 +7,6 @@ public class Person {
     private String address;
     private String age;
 
+    private String phone;
+
 }
