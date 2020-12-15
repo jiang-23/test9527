@@ -10,7 +10,6 @@ public class Person {
     private String phone;
 
     private String iphone;
-
     private String banana;
-
+    private String apple;
 }
