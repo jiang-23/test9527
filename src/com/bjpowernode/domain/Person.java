@@ -11,4 +11,6 @@ public class Person {
 
     private String iphone;
 
+    private String banana;
+
 }
